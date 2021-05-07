@@ -15,6 +15,9 @@ Para iniciar o notebook, dê o seguinte comando (ainda com a pasta aberta no ter
 ```
 $ jupyter notebook
 ```
+### Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/gioliveirass/imersao-dados-3/blob/main/LICENSE) para mais detalhes.
 
 <hr>
 
